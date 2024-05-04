@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dJNtUeg25wE+uloBV9t8sb1REcpTKhXNIVVQvLuMNGU=",
+  "Source": "API_REST_C#",
+  "BasePath": "_content/API_REST_C#",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
